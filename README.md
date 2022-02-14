@@ -26,4 +26,4 @@
   <strong><a href="https://discord.gg/killerskins">Discord</a></strong> 
 </p>
 
-<p align="center">❤ I'm currently working on 3D Model, Anime / Manga, and Content Creation.</p>
+<p align="center">❤ Co. Leader of NekoGun.</p>
