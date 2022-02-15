@@ -7,7 +7,6 @@
 ## <img src="https://cdn.discordapp.com/emojis/874539149657538560.gif?size=96&quality=lossless" width="50px"></img> About Me
 
 - :credit_card: You can call me **Slime** <img src="https://c.tenor.com/0sm84yWROQgAAAAd/rimuru-tempest.gif" width="400" align="right"/>
-- :school: I'm still a **Highschool Student**
 - :books: My major is **Listen to music from another room**
 - :earth_asia: I'm living now in **?**
 - :sweat_smile: I'm a newbie in coding, know C and little bit about Java language. Now I'm focus on learning Back-End and 3D Model Edit.
