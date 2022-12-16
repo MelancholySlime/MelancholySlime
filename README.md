@@ -9,7 +9,7 @@
 - :credit_card: You can call me **Slime** <img src="https://c.tenor.com/0sm84yWROQgAAAAd/rimuru-tempest.gif" width="400" align="right"/>
 - :books: My major is **Listen to music from another room**
 - :earth_asia: I'm living now in **?**
-- :sweat_smile: I'm a newbie in coding, know C and little bit about Java language. Now I'm focus on learning Back-End and 3D Model Edit.
+- :sweat_smile: Dun't ask me about da code :3 
 - :monocle_face: I'm interested in sleeping, and watching da wae
 - :sunglasses: My quote is ***"God gives you what you need and you shouldn't waste it and you should only do what you think is right"*** 
 
