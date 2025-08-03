@@ -40,8 +40,8 @@
 - :monocle_face: I'm interested in sleeping, and watching da wae
 - :sunglasses: My quote is ***"God gives you what you need and you shouldn't waste it and you should only do what you think is right"*** 
 
-##
 
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MelancholySlime&hide_border=true&show_icons=true" alt="MelancholySlime's github stats">
 </p>
