@@ -1,12 +1,39 @@
 <p align="center">
-  <a href="https://twitter.com/akubi_darake/status/1432071143331008514"><img src="https://pbs.twimg.com/media/E9-87UeVcAAlCpJ?format=jpg&name=large" alt="Sl1m3 Banner"></a>
+  <img src="https://r2-images-prod.runeforge.dev/a67e9199-a366-48ce-9c88-ece3a0b32a1c.png" width="150" style="border-radius: 50%" />
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://discord.gg/6Zf4HbCT3A"> The Melancholy Of Slime </a>! <img src="https://emoji.gg/assets/emoji/9706_Slime_Jump.gif" align="right"/></h1>
+<h1 align="center">Konari Lab Ch. 白夜こなり</h1>
+<p align="center"><strong>@KonariLab</strong></p>
 
-## <img src="https://cdn.discordapp.com/emojis/874539149657538560.gif?size=96&quality=lossless" width="50px"></img> About Me
+<p align="center">
+ <a href ="https://www.youtube.com/@konari_lab" ><img src="https://iili.io/F4nAGzg.png" alt="F4nAGzg.png" border="0" width="500" height="800"></a>
+</p>
 
-- :credit_card: You can call me **Slime** <img src="https://c.tenor.com/0sm84yWROQgAAAAd/rimuru-tempest.gif" width="400" align="right"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Creator-%E2%9C%94%EF%B8%8F-2ecc71?style=flat-square" />
+  <img src="https://img.shields.io/badge/Verified_Creator-%E2%9C%94%EF%B8%8F-2ecc71?style=flat-square" />
+ 
+</p>
+<div align="center">
+
+  
+---
+
+
+
+
+## 🦊 Welcome to Konari Lab Ch. 白夜こなり！
+
+> I'm **Konari**, a little fox who came from the Land of the Moonlit Night,  
+> and the creator behind the cozy lab, **Konari Lab**.
+</div>
+
+---
+
+
+
+<img src="https://c.tenor.com/0sm84yWROQgAAAAd/rimuru-tempest.gif" width="400" align="right"/>
+
 - :books: My major is **Listen to music from another room**
 - :earth_asia: I'm living now in **?**
 - :sweat_smile: Dun't ask me about da code :3 
@@ -19,10 +46,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MelancholySlime&hide_border=true&show_icons=true" alt="MelancholySlime's github stats">
 </p>
 
+## 🔗 Links
+
 <p align="center">
-  <strong><a href="https://www.youtube.com/channel/UCDumx4nmBgesIm-iEl7SyrA">Youtube</a></strong> |
-  <strong><a href="https://twitter.com/WhiteFoxCH">Twitter</a></strong> |
-  <strong><a href="https://discord.gg/killerskins">Discord</a></strong> 
+ <a href ="https://runeforge.dev/users/KonariLab/mods" ><img src="https://i.imgur.com/ibxYzhh.gif"></a>
 </p>
+
+---
 
 <p align="center">❤ Co. Leader of NekoGun.</p>
