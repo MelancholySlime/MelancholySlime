@@ -25,22 +25,29 @@
 </div>
 
 ---
-
-<img src="https://c.tenor.com/0sm84yWROQgAAAAd/rimuru-tempest.gif" width="400" align="right"/>
+<div align="center">
+<img src="https://c.tenor.com/0sm84yWROQgAAAAd/rimuru-tempest.gif" width="400" high="200" align="right"/>
 
 - :books: My major is **Listen to music from another room**
 - :earth_asia: I'm living now in **?**
 - :sweat_smile: Dun't ask me about da code :3 
 - :monocle_face: I'm interested in sleeping, and watching da wae
 - :sunglasses: My quote is ***"God gives you what you need and you shouldn't waste it and you should only do what you think is right"*** 
+</div>
+
+
+
+</br>
+
+</br>
+
+
+
+</br>
+
 
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats-psi-ten-88.vercel.app/api?username=MelancholySlime&hide_border=true&show_icons=true" alt="MelancholySlime's github stats">
-</p>
-
 ## 🔗 Links
 
 <p align="center">
