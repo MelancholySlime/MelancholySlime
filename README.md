@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Konari Lab Ch. 白夜こなり</h1>
-<p align="center"><strong>@KonariLab</strong></p>
+<p align="center"><strong>@Konari_Lab</strong></p>
 
 
 
