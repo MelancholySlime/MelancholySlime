@@ -38,7 +38,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MelancholySlime&hide_border=true&show_icons=true" alt="MelancholySlime's github stats">
+  <img src="https://github-readme-stats-psi-ten-88.vercel.app/api?username=MelancholySlime&hide_border=true&show_icons=true" alt="MelancholySlime's github stats">
 </p>
 
 ## 🔗 Links
