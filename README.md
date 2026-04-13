@@ -5,16 +5,12 @@
 <h1 align="center">Konari Lab Ch. 白夜こなり</h1>
 <p align="center"><strong>@KonariLab</strong></p>
 
-<p align="center">
- <a href ="https://www.youtube.com/@konari_lab" ><img src="https://iili.io/F4nAGzg.png" alt="F4nAGzg.png" border="0" width="500" height="800"></a>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Creator-%E2%9C%94%EF%B8%8F-2ecc71?style=flat-square" />
-  <img src="https://img.shields.io/badge/Verified_Creator-%E2%9C%94%EF%B8%8F-2ecc71?style=flat-square" />
- 
-</p>
+
 <div align="center">
+  
+---
+[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)
 
   
 ---
@@ -30,8 +26,6 @@
 
 ---
 
-
-
 <img src="https://c.tenor.com/0sm84yWROQgAAAAd/rimuru-tempest.gif" width="400" align="right"/>
 
 - :books: My major is **Listen to music from another room**
@@ -42,6 +36,7 @@
 
 
 ---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MelancholySlime&hide_border=true&show_icons=true" alt="MelancholySlime's github stats">
 </p>
@@ -51,6 +46,7 @@
 <p align="center">
  <a href ="https://runeforge.dev/users/KonariLab/mods" ><img src="https://i.imgur.com/ibxYzhh.gif"></a>
 </p>
+
 
 ---
 
