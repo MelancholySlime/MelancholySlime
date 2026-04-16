@@ -26,7 +26,7 @@
 
 ---
 <div align="center">
-<img src="https://c.tenor.com/0sm84yWROQgAAAAd/rimuru-tempest.gif" width="350" height="350" align="right"/>
+<img src="https://c.tenor.com/0sm84yWROQgAAAAd/rimuru-tempest.gif" width="350" height="250" align="right"/>
 
 - :books: My major is **Listen to music from another room**
 - :earth_asia: I'm living now in **?**
